@@ -26,7 +26,7 @@
     opacity: 0.6;
 }
 
-.Todo.completed .Todo-task:before {
+.Todo-task.completed:before {
     content: "";
     position: absolute;
     top: 50%;
